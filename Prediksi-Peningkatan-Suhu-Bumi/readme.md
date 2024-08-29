@@ -26,3 +26,7 @@ This project aims to analyze and predict the increase in Earth's surface tempera
 ## Results
 
 The project provides predictions for future temperature anomalies based on historical data, highlighting the potential impact of greenhouse gases on global warming. It also illustrates the effectiveness of different predictive models and their application in environmental analysis.
+
+## Conclusion
+
+The use of the Long Short-Term Memory (LSTM) method in this project aligns closely with the findings of Diffenbaugh (2023), which demonstrated that advanced machine learning techniques, like LSTM, can provide highly accurate predictions for climate-related changes. The predictions generated in this study support the hypothesis that greenhouse gas concentrations are significantly contributing to the observed and future increases in temperature anomalies. This alignment with Diffenbaugh's research underscores the reliability and importance of using LSTM models in climate prediction, offering valuable insights into the ongoing challenges posed by global warming.
